@@ -7,6 +7,9 @@
     ubuntu
     parrot
 
+# Resources
+![Descripción del GIF](https://github.com/PRL412/keyLog/blob/main/vidgif.gif)
+
 # Installation keyLog
     sudo apt install python3 -y
 
@@ -25,5 +28,4 @@
     python3 keylogger.py
 `To exit press CRTL+C `
 
-# Resources
-![Descripción del GIF](https://github.com/PRL412/keyLog/blob/main/vidgif.gif)
+
