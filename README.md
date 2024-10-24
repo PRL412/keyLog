@@ -26,4 +26,4 @@
 `To exit press CRTL+C `
 
 # Resources
-![Descripción del GIF]()
+![Descripción del GIF](https://github.com/PRL412/keyLog/blob/main/vidgif.gif)
