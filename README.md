@@ -26,6 +26,4 @@
 `To exit press CRTL+C `
 
 # Resources
-
-## Demo
-![Descripción del GIF](https://url-del-gif.com/mi-gif.gif)
+![Descripción del GIF]()
