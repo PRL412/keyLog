@@ -26,4 +26,6 @@
 `To exit press CRTL+C `
 
 # Resources
-![1](https://user-images.githubusercontent.com/46208706/69989984-70876880-150a-11ea-96ef-efe7a91f54f0.jpg)
+
+## Demo
+![Descripción del GIF](https://url-del-gif.com/mi-gif.gif)
