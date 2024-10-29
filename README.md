@@ -18,7 +18,7 @@
     
     sudo apt install git -y
     
-    git clone https://github.com/ 
+    git clone https://github.com/PRL412/keyLog.git
     
     cd keyLog
     
