@@ -2,7 +2,6 @@
     a script based on capturing or recording keyboard keystrokes
     
     keyLog in
-    Kali linux [nethunter]
     UserLand
     ubuntu
     parrot
